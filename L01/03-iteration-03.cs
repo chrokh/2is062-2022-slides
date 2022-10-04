@@ -1,6 +1,6 @@
 // Iteration: Robber's language
 
-string input = "Dog";
+string input = "Hello";
 string output = "";
 
 foreach (char letter in input)

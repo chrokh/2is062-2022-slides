@@ -7,8 +7,7 @@ string robbersEncodeChar (char input, char vowel)
     _ => $"{input}"
   };
 
-string robbersEncodeString (string input, char vowel)
-{
+string robbersEncodeString (string input, char vowel) {
   string output = "";
   foreach (char letter in input)
     output += robbersEncodeChar (letter, vowel);

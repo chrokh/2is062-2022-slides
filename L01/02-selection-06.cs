@@ -1,6 +1,6 @@
 // Selection: Robber's language
 
-char input = 'L';
+char input = 'O';
 
 switch (input)
 {

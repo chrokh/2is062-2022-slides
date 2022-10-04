@@ -12,18 +12,23 @@ Underhållbarhet
   * Modifierbarhet
   * Testbarhet
 
-- Hur relaterar dessa till
-  * abstraktion?
-  * komposition?
+- Teoretisering
+  * Code smells (ex. långa metoder)
+  * Patterns (ex. strategy)
+  * Principles (ex. DRY, ISP)
 
-- En av många ledstjärnor:
-  * Don't repeat yourself (DRY).
+- Nästan alla lösningar bygger på:
+  * abstraktion
+  * komposition
+  * => Lär dig inte bara utantill!
 
-- *Massor* av OOP-tekniker i denna kurs för att kunna öka underhållbarheten.
+- Varför lära sig OOP-tekniker?
+  * För att öka underhållbarheten.
 
-- Nästan alla tekniker i denna kurs använder:
+- Nästan alla tekniker i använder:
   * Subtypspolymorfism
   * Parametrisk polymorfism (generics)
+  * => Lär dig inte bara utantill!
 
 
 

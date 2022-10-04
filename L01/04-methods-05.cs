@@ -1,4 +1,4 @@
-// En metod. Kan den förenklas?
+// En metod. Parameteriserad över input.
 
 string robbersEncode (string input)
 {
@@ -16,4 +16,5 @@ string robbersEncode (string input)
 }
 
 Console.WriteLine( robbersEncode("DOG") );
+Console.WriteLine( robbersEncode("GOD") );
 

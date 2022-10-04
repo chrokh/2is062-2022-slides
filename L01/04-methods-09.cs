@@ -1,4 +1,5 @@
 // Med metodkomposition når vi en gräns.
+// (utan polymorfism)
 // Metoder måste göras om till data för ökad abstraktion.
 // Inte alltid trivialt.
 

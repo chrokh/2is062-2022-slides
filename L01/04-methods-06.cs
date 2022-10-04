@@ -1,4 +1,5 @@
-// Parameterisering
+// Parameteriserad över vokal.
+// Går att uttrycka som komposition?
 
 string robbersEncode (string input, char vowel)
 {

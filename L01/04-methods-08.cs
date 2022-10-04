@@ -20,6 +20,8 @@ string caesarEncodeString (string input, int steps)
   return output;
 }
 
-char CaesarEncodeChar (char letter, int steps) => throw new NotImplementedException();
-char LeetEncodeChar (char letter) => throw new NotImplementedException();
+
+
+char caesarEncodeChar (char letter, int steps) => throw new NotImplementedException();
+char leetEncodeChar (char letter) => throw new NotImplementedException();
 
