@@ -1,0 +1,6 @@
+- Interfaces
+- Subtypspolymorfism
+- Arv / Inheritance
+- Abstrakta klasser
+- Abstrakt konstruerad objektkomposition
+- Abstrakt injicerad objektkomposition

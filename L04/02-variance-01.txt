@@ -1,0 +1,14 @@
+Varians
+=======
+
+- När kan en typ användas istället för en annan?
+
+- Kovarians     (`A:B => I<A> : I<B>`)
+- Kontravarians (`A:B => I<B> : I<A>`)
+- Varians
+- Bivarians
+- Invarians
+
+- Vadå kontext I?
+  - Generisk typ
+  - Överlagrad metod
