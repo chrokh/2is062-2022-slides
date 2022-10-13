@@ -2,7 +2,6 @@
 //   <Nullable>enable</Nullable>
 //   <WarningsAsErrors>Nullable</WarningsAsErrors>
 
-
 //string input = Console.ReadLine();
 
 //if (false) {
@@ -22,12 +21,12 @@
 
 //string? x = "A";
 //if (x == "B")
-//  x = null;  // Körs aldrig!
-//string y = (string)x;
+//  x = null;  // Körs aldrig! // maybe-null
+//string y = x;
 
 //string? x = "A";
 //if (x == "B")
 //  x = null;  // Körs aldrig!
-//string y = (string)x!;
+//string y = x!;
 
 
