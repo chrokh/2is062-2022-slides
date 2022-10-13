@@ -5,7 +5,5 @@ Modularity
 
 - Shotgun surgery
 
-- Single responsibility principle
-- Interface segregation principle
-- Open-closed principle
-- Dependency inversion principle
+- For example 4/5 SOLID principles:
+

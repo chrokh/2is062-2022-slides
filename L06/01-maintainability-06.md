@@ -12,3 +12,6 @@ Testability
     * (integration state explosion)
   2. Impurities
     * Impurity and non-determinism
+
+- There's always at least two cases. The case you have + the test case.
+  * Misko Hevery on Dependency Injection
