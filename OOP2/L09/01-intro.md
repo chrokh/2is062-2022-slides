@@ -1,0 +1,5 @@
+- Dependency quadrant diagram
+- Observer pattern
+- Events
+- Factory method pattern
+- Composite pattern
